@@ -1,2 +1,1 @@
-# Assingment-1
-here i made a perfume webpage with filter button features and products in cards form using concept of flexbox and basic css and html learnings
+A responsive perfume showcase webpage built using HTML and CSS. Features product cards organized with Flexbox and an interactive filter system for browsing different perfume categories. This project helped strengthen my understanding of layouts, styling, and user-friendly interface design.
